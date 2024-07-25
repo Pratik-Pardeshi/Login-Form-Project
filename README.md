@@ -15,7 +15,7 @@ This project features a simple login form with a backend server built using Node
     Open your terminal and run the following command to clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/login-form.git
+    git clone [https://github.com/your-username/login-form.git](https://github.com/Pratik-Pardeshi/Login-Form-Project.git)
     cd login-form
     ```
 
